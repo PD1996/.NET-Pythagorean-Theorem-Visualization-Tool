@@ -8,3 +8,5 @@ Play around with the "+" or "-" buttons to add or subtract from the "A" and "B" 
 
 ## How to run it
 Inside Visual Studio, simply build the solution and run it. It should work unless your .NET framework is outdated (it's targeted for version 4.6.1). Also, there may be minor resolution problems for certain devices as of now.
+
+![](Screenshots/two.PNG)
