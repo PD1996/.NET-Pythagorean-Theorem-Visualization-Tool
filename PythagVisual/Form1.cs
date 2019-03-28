@@ -307,6 +307,7 @@ namespace PythagVisual
             about.Show();
         }
 
+        //Align all picture boxes
         private void pictureBox3_ParentChanged(object sender, EventArgs e)
         {
             pictureBox3.Parent = pictureBox1;
