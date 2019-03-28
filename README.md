@@ -1,5 +1,5 @@
 # .NET Pythagorean Theorem Visualization Tool
-A simple tool created with .NET framework in C# used to visualize the Pythagorean Theorem.
+A simple Windows desktop app created with .NET Forms framework in C# used to visualize the Pythagorean Theorem.
 
 ![](Screenshots/one.PNG)
 
