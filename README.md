@@ -13,6 +13,4 @@ You could download and run the application from: https://rink.hockeyapp.net/apps
 
 Download the source code from this repository and run it from Visual Studio. It should work unless your .NET framework is outdated (it's targeted for version 4.6.1). 
 
-Also, there may be minor resolution problems for certain devices as of now.
-
 ![](Screenshots/two.PNG)
